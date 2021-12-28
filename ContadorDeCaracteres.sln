@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContadorDeCaracteres", "ContadorDeCaracteres.csproj", "{4DF97911-8A6A-4C6E-9811-B4874673DB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF97911-8A6A-4C6E-9811-B4874673DB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF97911-8A6A-4C6E-9811-B4874673DB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF97911-8A6A-4C6E-9811-B4874673DB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF97911-8A6A-4C6E-9811-B4874673DB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {198A1EE9-65D2-43C8-8EFC-8A7FBA09F221}
+	EndGlobalSection
+EndGlobal
